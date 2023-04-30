@@ -96,8 +96,7 @@
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://172.31.29.97:8181/repository/paypal-releases/</url>
-	    
-	    <snapshotRepository>
+	     <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://172.31.29.97:8181/repository/paypal-snapshots/</url>
